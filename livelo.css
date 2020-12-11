@@ -1,0 +1,10 @@
+/* Botão de Login */
+element :selectorPorClasse, '#a-buttonLogin'
+
+/* Botão de Cadastro */
+element :selectorPorClasse, '#a-clickLogin'
+
+/* carrinho */
+element :selectorPorClasse, '#a-linkCart'
+
+
